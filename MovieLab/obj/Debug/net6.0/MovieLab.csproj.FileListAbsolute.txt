@@ -1,0 +1,15 @@
+C:\Users\Jake\source\repos\MovieLab\MovieLab\obj\Debug\net6.0\MovieLab.csproj.AssemblyReference.cache
+C:\Users\Jake\source\repos\MovieLab\MovieLab\obj\Debug\net6.0\MovieLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\source\repos\MovieLab\MovieLab\obj\Debug\net6.0\MovieLab.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\MovieLab\MovieLab\obj\Debug\net6.0\MovieLab.AssemblyInfo.cs
+C:\Users\Jake\source\repos\MovieLab\MovieLab\obj\Debug\net6.0\MovieLab.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\MovieLab\MovieLab\bin\Debug\net6.0\MovieLab.exe
+C:\Users\Jake\source\repos\MovieLab\MovieLab\bin\Debug\net6.0\MovieLab.deps.json
+C:\Users\Jake\source\repos\MovieLab\MovieLab\bin\Debug\net6.0\MovieLab.runtimeconfig.json
+C:\Users\Jake\source\repos\MovieLab\MovieLab\bin\Debug\net6.0\MovieLab.dll
+C:\Users\Jake\source\repos\MovieLab\MovieLab\bin\Debug\net6.0\MovieLab.pdb
+C:\Users\Jake\source\repos\MovieLab\MovieLab\obj\Debug\net6.0\MovieLab.dll
+C:\Users\Jake\source\repos\MovieLab\MovieLab\obj\Debug\net6.0\refint\MovieLab.dll
+C:\Users\Jake\source\repos\MovieLab\MovieLab\obj\Debug\net6.0\MovieLab.pdb
+C:\Users\Jake\source\repos\MovieLab\MovieLab\obj\Debug\net6.0\MovieLab.genruntimeconfig.cache
+C:\Users\Jake\source\repos\MovieLab\MovieLab\obj\Debug\net6.0\ref\MovieLab.dll
