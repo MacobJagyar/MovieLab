@@ -80,11 +80,12 @@ while (again)
     if (againInput == "y")
     {
         again = true;
+        Console.Clear();
     }
     else if (againInput == "n")
     {
         again = false;
-        Console.WriteLine("\nGoodbye");
+        Console.WriteLine("\nGoodbye. Press any key to quit.");
     }
     else
     {
@@ -92,7 +93,6 @@ while (again)
         Thread.Sleep(1800);
     }
     Console.WriteLine(); //Here so that there's a line break for when the loop starts again.
-    Console.Clear();
 }
 
 
